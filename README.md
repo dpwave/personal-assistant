@@ -2,7 +2,8 @@
 
 Basic voice activated app created for [Raspberry Pi 3](https://www.raspberrypi.org) with [NodeJS](https://nodejs.org) + [Electron](http://electron.atom.io/). Uses [Annyang](https://www.talater.com/annyang/) and [Responsive Voice](http://responsivevoice.org/) JavaScript libraries.
 
-UPDATE 23-JUN-2016 : Google speech recognition has been disabled for Electron, therefore this functionality is not available anymore. Read more about the issue [here](https://github.com/sdkcarlos/artyom.js/issues/4) and [here](http://ourcodeworld.com/articles/read/165/voice-commands-speech-recognition-and-speech-synthesis-with-electron-framework).
+"UPDATE 23-JUN-2016 : Google speech recognition has been disabled for Electron, therefore this functionality is not available anymore. Read more about the issue [here](https://github.com/sdkcarlos/artyom.js/issues/4) and [here](http://ourcodeworld.com/articles/read/165/voice-commands-speech-recognition-and-speech-synthesis-with-electron-framework).
+It seems like google had revoked the speech api access in development or embedded chromium environments."
 
 # See it in action
 
